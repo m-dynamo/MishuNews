@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MishuNews/static/css/main.31d6cfe0.css",
+    "main.js": "/MishuNews/static/js/main.297d838a.js",
+    "static/js/787.4c026eef.chunk.js": "/MishuNews/static/js/787.4c026eef.chunk.js",
+    "index.html": "/MishuNews/index.html",
+    "main.297d838a.js.map": "/MishuNews/static/js/main.297d838a.js.map",
+    "787.4c026eef.chunk.js.map": "/MishuNews/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.297d838a.js"
+  ]
+}
